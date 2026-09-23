@@ -1,5 +1,11 @@
 # sovereign-cognition
 
+<p align="center">
+  <img src="assets/hesse-authenticity-system.png" alt="The Complete Hermann Hesse Authenticity System — Invariants → Alloy → Aristotelian Syllogistic Logic" width="820"/>
+</p>
+
+> *Siddhartha · Steppenwolf · Demian — the invariants crystallized as Alloy, executed in Futhark.*
+
 [![License: AGPL-3.0-or-later OR Apache-2.0](https://img.shields.io/badge/license-AGPL--3.0--or--later%20OR%20Apache--2.0-blue.svg)](LICENSE-AGPL)
 [![Crystal](https://img.shields.io/badge/Crystal-1.10%2B-black.svg)](https://crystal-lang.org/)
 [![Futhark](https://img.shields.io/badge/Futhark-0.24%2B-orange.svg)](https://futhark-lang.org/)
