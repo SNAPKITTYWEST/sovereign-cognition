@@ -1,0 +1,16 @@
+name: sovereign-cognition
+version: 0.1.0
+description: Parallel agent cognition classification — Futhark kernel + Crystal runtime + Alloy formal model
+
+authors:
+  - SNAPKITTYWEST
+
+license: AGPL-3.0-or-later
+
+targets:
+  cognition:
+    main: crystal/runtime.cr
+  cognition_core:
+    main: crystal/runtime_core.cr
+
+crystal: ">= 1.10.0"

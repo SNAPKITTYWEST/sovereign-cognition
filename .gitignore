@@ -1,0 +1,9 @@
+.idea/
+*.o
+*.a
+cognition
+cognition_core
+cognition_futhark_binary
+cognition_core_futhark_binary
+*.c.fut
+*.futhark-cache/
